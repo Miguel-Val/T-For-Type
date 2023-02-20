@@ -13,8 +13,7 @@ function FrontPage() {
           />
           <span style={{transitionDelay: '22s',}}>
           <Typewriter
-            words={['     Typ3','  Type']}
-            
+            words={['     Tpyr','  Type']}
             cursor
             cursorStyle='|'
             cursorBlinking={true}
